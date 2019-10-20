@@ -1,0 +1,14 @@
+.DetailsPage {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  h2 {
+    span {
+      display: block;
+    }
+    span + span {
+      font-weight: normal;
+    }
+  }
+}
