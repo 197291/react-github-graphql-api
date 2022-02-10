@@ -13,7 +13,7 @@
     "apollo-link-context": "^1.0.19",
     "downshift": "^3.3.5",
     "graphql": "^14.5.8",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-router-dom": "^5.1.2",
